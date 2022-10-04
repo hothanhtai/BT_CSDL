@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\bin\Debug\CSDL.mdf
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\bin\Debug\CSDL_log.ldf
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\bin\Debug\BAITAP_CSDL.exe.config
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\bin\Debug\BAITAP_CSDL.exe
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\bin\Debug\BAITAP_CSDL.pdb
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\obj\Debug\BAITAP_CSDL.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\obj\Debug\BAITAP_CSDL.frm_DangNhap.resources
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\obj\Debug\BAITAP_CSDL.frm_Main.resources
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\obj\Debug\BAITAP_CSDL.Properties.Resources.resources
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\obj\Debug\BAITAP_CSDL.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\obj\Debug\BAITAP_CSDL.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\obj\Debug\BAITAP_CSDL.exe
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\obj\Debug\BAITAP_CSDL.pdb
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\obj\Debug\BAITAP_CSDL.frm_Khoa.resources
+C:\Users\asus\source\repos\BAITAP_CSDL\BAITAP_CSDL\obj\Debug\BAITAP_CSDL.frm_DanhSachSinhVien.resources
